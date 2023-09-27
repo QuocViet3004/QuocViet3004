@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Quoc Viet</h1>
 <p align="center">
-  <h3 align="center">Student at HUST </h3>
+  <h3 align="center"> Hmmm </h3>
 </p>
 
 <br />
@@ -17,7 +17,7 @@
   </a> 
 </p>
 
-## Skills:
+## ^^^
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
